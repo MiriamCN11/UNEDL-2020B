@@ -1,0 +1,9 @@
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\bin\Debug\TPV2doParcialMNCN.exe.config
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\bin\Debug\TPV2doParcialMNCN.exe
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\bin\Debug\TPV2doParcialMNCN.pdb
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\obj\Debug\TPV2doParcialMNCN.csprojAssemblyReference.cache
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\obj\Debug\TPV2doParcialMNCN.Properties.Resources.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\obj\Debug\TPV2doParcialMNCN.csproj.GenerateResource.cache
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\obj\Debug\TPV2doParcialMNCN.csproj.CoreCompileInputs.cache
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\obj\Debug\TPV2doParcialMNCN.exe
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\TPV2doParcialMNCN\obj\Debug\TPV2doParcialMNCN.pdb
